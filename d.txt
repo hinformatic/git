@@ -1,2 +1,3 @@
 estou alterando d.txt
 meu teste
+test ok então
