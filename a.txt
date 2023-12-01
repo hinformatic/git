@@ -1,7 +1,4 @@
 teste 
 entendendo o head
-<<<<<<< HEAD
 esta linha modificada ramo master
-=======
 esta linha foi modificada no ramo teste
->>>>>>> teste
